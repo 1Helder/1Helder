@@ -1,5 +1,5 @@
-# 💫 Sobre mim:
-Olá👋. Sou estudante de Ciência da Computação e gosto de passar meu tempo estudando e aprendendo coisas novas sempre que posso, com o objetivo de aplicar meus conhecimentos e habilidades no ambiente profissional
+# 💫 Olá, sou o Helder Barreto
+Sou estudante de Ciência da Computação e gosto de passar meu tempo estudando e aprendendo coisas novas sempre que posso, com o objetivo de aplicar meus conhecimentos e habilidades no ambiente profissional
 
 
 ## 🌐 Redes Sociais:
